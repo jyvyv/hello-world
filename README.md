@@ -1,2 +1,3 @@
 # hello-world
-Just a simple test
+Hi, everyone.
+This is just a simple test
